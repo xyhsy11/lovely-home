@@ -1,9 +1,7 @@
+package java.array.demo42;
+
 public class HelloWorld {
-	public static void main(String[] args){
-		int a=1;
-		int b=2;
-		int result1=a+b;
-		System.out.println(result1);
-		
-	}
+    public static void main(String[] args) {
+        System.out.println("HelloWorld!");
+    }
 }

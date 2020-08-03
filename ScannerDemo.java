@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /*
 A： 导包
 	格式
@@ -11,7 +13,6 @@ C:  通过对象获取数据
 	格式
 	int x = sc. nextInt();
 */
-import java.util.Scanner;
 public class ScannerDemo {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
